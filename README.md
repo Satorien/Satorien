@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Welcome to my profile page.
 <!--
 **Satorien/Satorien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me
+- Currently an undergraduate student at The University of Tokyo majoring in Neural Engineering and Artificial Intelligence
+- Interested in implementation of AI in everyday life
