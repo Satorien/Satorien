@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- Currently an undergraduate student at The University of Tokyo majoring in Neural Engineering and Artificial Intelligence
-- Interested in implementation of AI in everyday life
+- Master's student in The Graduate School of Information Science and Technology at The University of Tokyo majoring in Mechano-Informatics
+- My research topic is modelling of the brain, especially the system of memory consolidation
