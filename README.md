@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 ## About me
 - Master's student in The Graduate School of Information Science and Technology at The University of Tokyo majoring in Mechano-Informatics
 - My research topic is modelling of the brain, especially the system of memory consolidation
+
+# Projects
+- Slack QA Summary
+- Fatigue Alert
+- Voice Changer
